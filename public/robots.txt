@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smart-investors-81bb7137.zappy5.app/sitemap.xml

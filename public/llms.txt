@@ -1,0 +1,53 @@
+# Smart Investors — Generative Engine Optimization Map
+
+> A פינטק ומסחר במניות business.
+
+---
+
+## Pages
+
+### Home
+https://smart-investors-81bb7137.zappy5.app
+
+### About
+https://smart-investors-81bb7137.zappy5.app/about
+
+### Insights
+https://smart-investors-81bb7137.zappy5.app/insights
+
+### Contact
+https://smart-investors-81bb7137.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://smart-investors-81bb7137.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://smart-investors-81bb7137.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://smart-investors-81bb7137.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Smart Investors
+Smart Investors is a business in the פינטק ומסחר במניות industry.
+
+## Target Audience
+משקיעים וסוחרי מניות
+
+## Industry
+פינטק ומסחר במניות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://smart-investors-81bb7137.zappy5.app/sitemap.xml
+- **Robots.txt**: https://smart-investors-81bb7137.zappy5.app/robots.txt
